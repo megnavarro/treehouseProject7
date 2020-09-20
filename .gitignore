@@ -119,7 +119,7 @@ dist
 .env.development.local
 .env.test.local
 .env.production.local
-config.js
+./src/config.js
 
 npm-debug.log*
 yarn-debug.log*
